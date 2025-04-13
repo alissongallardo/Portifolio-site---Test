@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("fundo.jpg");
+  background-size: cover;         /* faz a imagem cobrir tudo */
+  background-position: center;    /* centraliza a imagem */
+  background-repeat: no-repeat;   /* não repete */
+  color: #fff;                    /* muda a cor do texto se necessário */
+}
