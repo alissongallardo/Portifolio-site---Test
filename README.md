@@ -6,9 +6,10 @@
   Meu Portfólio 
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-<img> FXG1y0vWIAA3XL5.jpg </img>
-
+<body> 
+  
+<img src="https://github.com/alissongallardo/Portifolio-site---Test/blob/c822c62af03846303d9756527cdc559a782a9bb8/FXG1y0vWIAA3XL5.jpg" alt="Foto genérica">
+  
   <header>
     <h1>Seu Nome</h1>
     <p> Ilustrador </p>
