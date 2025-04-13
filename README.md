@@ -7,8 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body> 
-  
-<img src="https://github.com/alissongallardo/Portifolio-site---Test/blob/c822c62af03846303d9756527cdc559a782a9bb8/FXG1y0vWIAA3XL5.jpg">
+
   
   <header>
     <h1>Seu Nome</h1>
